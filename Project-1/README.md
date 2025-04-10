@@ -22,5 +22,5 @@ This dataset was compiled by Kaggle user [Gambler](https://www.kaggle.com/harish
 
 ## Setup
 1. Clone the repository or download the ZIP.
-2. Ensure `Spice.csv` is in the same directory as `project.ipynb`.
+2. Ensure `Spice.csv` is in the same directory as `Project_1.ipynb`.
 3. Open the notebook in Jupyter and run all cells.
