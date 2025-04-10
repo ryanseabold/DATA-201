@@ -2,7 +2,7 @@
 
 ### Global Spice Production and Consumption
 
-This project utilizes a dataset from Kaggle titled "[Global Spice Consumption](https://www.kaggle.com/datasets/harishthakur995/global-spice-consumption)," derived from FAOSTAT, the statistical database of the Food and Agriculture Organization (FAO) of the United Nations. The dataset contains 45,321 observations and 13 variables, of which 45,042 observations and 7 variables are selected for analysis. The relevant variables include: territory, spice, year, import amount, export amount, production amount, and estimated consumption.
+This project utilizes a dataset from Kaggle titled "[Global Spice Consumption](https://www.kaggle.com/datasets/harishthakur995/global-spice-consumption)," derived from FAOSTAT, the statistical database of the Food and Agriculture Organization (FAO) of the United Nations. The dataset contains 45,321 observations and 13 variables, of which 45,042 observations and 7 variables are selected for analysis. This project will also only use data from 2023, further restricting the dataset to 1675 rows. The relevant variables include: territory, spice, year, import amount, export amount, production amount, and estimated consumption.
 
 The dataset offers a structured view of global spice trade and consumption trends from 1993 to 2023, with domestic consumption estimated using the formula:
 
